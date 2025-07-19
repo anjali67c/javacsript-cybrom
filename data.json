@@ -1,0 +1,40 @@
+{
+  "userdata": [
+    {
+      "id": "c338",
+      "name": "Anjali",
+      "age": "21",
+      "contact": "9424468700"
+    },
+    {
+      "id": "6880",
+      "name": "Harsh",
+      "age": "21",
+      "contact": "8461990993"
+    },
+    {
+      "id": "ff13",
+      "name": "Usha ",
+      "age": "42",
+      "contact": "7489489630"
+    },
+    {
+      "id": "a281",
+      "name": "Ankit",
+      "age": "23",
+      "contact": "6869745213"
+    },
+    {
+      "id": "3087",
+      "name": "Qasim",
+      "age": "32",
+      "contact": "7418529630"
+    },
+    {
+      "id": "691e",
+      "name": "Mahak",
+      "age": "21",
+      "contact": "7412589630"
+    }
+  ]
+}
